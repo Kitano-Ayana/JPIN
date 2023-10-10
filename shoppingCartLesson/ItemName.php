@@ -3,12 +3,15 @@
 class ItemName
 {
 
-    private int $name;
+    private int $value;
 
-    public function __construct($name)
+    public function __construct($value)
     {
+        if($value == null ){
+            throw new IntlException();
+        }
 
-        $this->name = $name;
+        $this->value = $$value;
 
     }
 }
