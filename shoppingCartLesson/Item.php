@@ -15,5 +15,10 @@
         $this->price = $price;
     }
 
+    public function getPrice():ItemPrice
+    {
+        return $this->price;
+    }
+
 }
 
