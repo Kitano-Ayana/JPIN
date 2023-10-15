@@ -3,30 +3,36 @@
 class ShoppingCart
 {
 
-    private Order $order;
+    private array $orders;
 
-    private Total $total;
+    private discountBundle $discount;
 
-    public function __construct(Order $order, Total $total)
+    public function __construct()
     {
-        if($order == NULL || $total == NULL){
-            return new IllegalStateException();
-        }
-
-        $this->order = $order;
+       $this->orders = [];   
+       $this->discount = DiscountBudleFactory::create();
     }
 
-    public function addCart(Order $order)
+    public function add(Order $order):void
     {
-        $this->order->add($order);
+
+        $this->orders[] = $order;
+
+        $this->discount->bundle($order);
+        $result = $this->discount->getDiscountOrder();
+        if($result != null){
+            $this->order->add($result);
+        }
     }
 
     public function  getTotal():Total
     {
-        foreach($this->order as $value){
-            $total = $this->order->getTotal()->add($total);
-
+        $total = new Total(0);
+        foreach($this->orders as $order){
+            $subTotal = $this->getTotal();
+            $total = $subTotal->add($total);
         }
+        return $total;
 
     }
 }
