@@ -20,4 +20,10 @@ class Quantity
     {
         return $this->amaount;
     }
+
+    public function add(Quantity $quantity): Quantity
+    {
+        return new Quantity($this->amount + $quantity->amount);
+
+    }
 }

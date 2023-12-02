@@ -7,6 +7,8 @@ class Order
     private Item $item;
 
     private OrderType $type;
+
+    private bool $discountApplied = false;
    
     public function __construct(Item $item, Quantity $quantity,OrderType $type = null)
     {
@@ -26,9 +28,30 @@ class Order
         return new Total($this->item->getPrice()->getAmaount(),$this->type);
     }
 
-    public isSameItem(Item $item):boolean
+    public function isLessThan(Order $target)
     {
-        return $this->item->equals($item);
+        return false;
+    }
+
+    public function isMoreThan(Order $target)
+    {
+        return false;
+    }
+
+    public function isDiscountApplied(): bool {
+        return $this->discountApplied;
+    }
+
+    public function add(Order $order):Order
+    {
+        if(! $this->item = $order->item){
+            throw new IntlException();
+        }
+        // new OrderするとComon〜〜が入らないのでFacotryを使う ひとまずJavaの書き方で
+        return OrderFactory.create(
+            $this->item,
+            $this->quantity->add($order->quantity));
+
     }
 
 }
