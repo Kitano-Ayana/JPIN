@@ -26,4 +26,13 @@ class Quantity
         return new Quantity($this->amount + $quantity->amount);
 
     }
+
+    //ターゲットのamountが$this->amountよりお大きければfalseを返す
+    //このクラスにgetメソッドを追加してorderで呼び出すという処理はダメ
+    public function isLessThan(Quantiy $target):boolean
+    {
+        return $this->amount < $target->amount;
+    }
+
+
 }

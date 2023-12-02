@@ -30,7 +30,12 @@ class Order
 
     public function isLessThan(Order $target)
     {
-        return false;
+        //itemが違えば、falseを返す
+        if($this->item != $target->item){
+            return false;
+        }
+
+        return $this->quantity->isLessThan($target->quantity);
     }
 
     public function isMoreThan(Order $target)
