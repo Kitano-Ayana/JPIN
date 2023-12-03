@@ -10,7 +10,7 @@ class Order
 
     private bool $discountApplied = false;
    
-    public function __construct(Item $item, Quantity $quantity,OrderType $type = null)
+    public function __construct(Item $item, Quantity $quantity,OrderType $type = null,QuantityLimit $limit = null)
     {
         if($item == null || $quantity == null){
             throw new IntlException();
@@ -38,11 +38,6 @@ class Order
         return $this->quantity->isLessThan($target->quantity);
     }
 
-    public function isMoreThan(Order $target)
-    {
-        return false;
-    }
-
     public function isDiscountApplied(): bool {
         return $this->discountApplied;
     }
@@ -53,10 +48,8 @@ class Order
             throw new IntlException();
         }
         // new OrderするとComon〜〜が入らないのでFacotryを使う ひとまずJavaの書き方で
-        return OrderFactory.create(
-            $this->item,
-            $this->quantity->add($order->quantity));
-
+    //    return new Order($this->item,$this->quantity->add($order->quantity));
+        return OrderFactory::create($this->item,$this->quantity->add($order->quanatity));
     }
 
 }
