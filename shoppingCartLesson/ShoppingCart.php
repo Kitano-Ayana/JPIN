@@ -27,7 +27,7 @@ class ShoppingCart
 
     public function  getTotal():Total
     {
-        $total = new Total(0);
+        $total ='';
         foreach($this->orders as $order){
             $subTotal = $this->getTotal();
             $total = $subTotal->add($total);
