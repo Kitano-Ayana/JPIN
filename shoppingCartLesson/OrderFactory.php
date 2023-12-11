@@ -1,35 +1,41 @@
 <?php
 
+require_once 'Order.php';
+require_once 'QuantityLimit.php';
+
 class OrderFactory
 {
     public static function create(Item $item, Quantity $quantity)
     {
-        return new Order($item,$quantity,buildlimiter());
+       // $limit = self::buildlimiter();
+        $order = new Order($item,$quantity,self::buildlimiter());
+        
+        return $order;
     }
 
-    private function buildlimiter():QuantityLimit 
+    private static function buildlimiter():QuantityLimit 
     {
         $apple = new Item(
             new ItemName("apple"),
-            new ItemPrice(Currency.YEN,100)
+            new ItemPrice(100)
         );
 
         $banana = new Item(
             new ItemName("banana"),
-            new ItemPrice(Currency.YEN,80)
+            new ItemPrice(80)
         );
 
         $orange = new Item(
             new ItemName("orange"),
-            new ItemPrice(Currency.YEN,120)
+            new ItemPrice(120)
         );
 
         $limit = new QuantityLimit($apple, new Quantity(10));
-        $limit->setNext(new QuantityLimit($banana, new Quantity(20)))
-        ->setNext(new QuantityLimit($orange, new Quantity(5)));
-
+        $limit->setNext(new QuantityLimit($banana, new Quantity(20)));
+        $limit->setNext(new QuantityLimit($orange, new Quantity(5)));
 
         return $limit;
+    
 
     }
 }

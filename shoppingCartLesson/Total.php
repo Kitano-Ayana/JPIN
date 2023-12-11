@@ -4,45 +4,44 @@
 class Total
 {
 
-    private int $amaount;
+    private int $amount;
 
-    private DealType $type;
+    private ?string $type;
 
-    public function __construct($amaount, DealType $type = null)
+    public function __construct($amount, $type = null)
     {
 
-        if($amaount == NULL){
-            throw new IntlException();
+        if($amount == NULL){
+           print_r("入力してください");
         }
 
-        if(10000 < $amaount ){
-            throw new IntlException();
+        if(10000 < $amount ){
+            print_r("入力してください");
         }
 
-        $this->amaount = $amaount;
+        $this->amount = $amount;
         $this->type = $type;
-
 
     }
 
-    public function getTotal()
+    public function getAmount()
     {
-        return $this->amaount;
+        return $this->amount;
     }
 
     public function isCredit()
     {
-        return $this->type = DealType::CREDIT;
+        return $this->type == OrderType::CREDIT;
     }
 
-    public function add($target)
-    {
-        if($target->type == DealType::CREDIT){
-            return new Total($this->amaount - $target->amount);
+    public function add($target): Total {
+        if ($this->type == OrderType::CREDIT) {
+            var_dump('通過してます〜');
+            return new Total($target->amount - $this->amount,OrderType::DEBIT);
         }
-
-        return new Total($this->amaount + $target->amount);
+    
+        return new Total($this->amount + $target->amount);
     }
-
+    
 
 }

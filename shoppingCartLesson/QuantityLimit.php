@@ -21,16 +21,18 @@ class QuantityLimit
 
     public function check(Order $target): bool
     {
-        //注文がリミットを超えたときfalseを返す
-        if($this->limit->isLessThan($target))
-        {
-           return false;
+        var_dump("passCheck");
+        // 注文がリミットを超えた場合はfalseを返す
+        if (!$this->limit->isLessThan($target)) {
+            return false;
         }
 
-        //数珠繋ぎにQunatityLimitが呼ばれていく
-        if($this->next != null)
-        {
-            $this->next->check($target);
+        // 次のQuantityLimitがある場合は、そのcheckを呼び出す
+        if (isset($this->next)) {
+            return $this->next->check($target);
         }
+
+        // すべてのチェックを通過した場合はtrueを返す
+        return true;
     }
 }

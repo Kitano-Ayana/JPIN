@@ -1,21 +1,22 @@
 <?php
 
-//120円のバナナ作成
-$banana = new Item(
-    new ItemName("Banana"),
-    new ItemPrice("120","JPY");
+require_once 'ItemName.php';
+require_once 'ItemPrice.php';
+require_once 'Item.php';
+require_once 'Quantity.php';
+require_once 'OrderFactory.php';
+require_once 'ShoppingCart.php';
 
-//150円のりんご作成
-$apple = new Item(
-    new ItemName("Apple"),
-    new ItemPrice("150","JPY");
+$apple = new Item( new ItemName('apple'),new ItemPrice(100));
+$banana = new Item( new ItemName('banana'),new ItemPrice(80));
 
 
-$cart = new ShoppingCart();
-$cart->addCart(new Order($apple,new Quantity(3)));
-$cart->addCart(new Order($banana,new Quantity(5)));
-$cart->addCart(new Order($apple,new Quantity(1)),DealType::CREDIT);
+$shoppingCart = new ShoppingCart();
+$shoppingCart->add( new Order($apple ,new Quantity(3)));
+$shoppingCart->add( new Order($banana ,new Quantity(5)));
+$shoppingCart->add(new Order($banana, new Quantity(5), OrderType::CREDIT));
 
-$total = $cart->getTotal();
-print_r($total);
+
+$total = $shoppingCart->getTotal();
+print_r($total->getAmount());
 

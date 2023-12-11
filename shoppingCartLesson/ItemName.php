@@ -3,7 +3,7 @@
 class ItemName
 {
 
-    private int $value;
+    private string $value;
 
     public function __construct($value)
     {
@@ -11,7 +11,7 @@ class ItemName
             throw new IntlException();
         }
 
-        $this->value = $$value;
+        $this->value = $value;
 
     }
 }
