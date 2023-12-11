@@ -3,22 +3,22 @@
 class Quantity
 {
 
-    private int $amaount;
+    private int $amount;
 
-    public function __construct(int $amaount)
+    public function __construct(int $amount)
     {
 
-        if($amaount <= 0 || 100 <= $amaount){
-            throw new IntlException();
+        if($amount <= 0 || 100 <= $amount){
+            print_r("エラーです。");
         }
 
-        $this->amaount = $amaount;
+        $this->amount = $amount;
 
     }
 
     public function getAmaount()
     {
-        return $this->amaount;
+        return $this->amount;
     }
 
     public function add(Quantity $quantity): Quantity
@@ -29,7 +29,7 @@ class Quantity
 
     //ターゲットのamountが$this->amountよりお大きければfalseを返す
     //このクラスにgetメソッドを追加してorderで呼び出すという処理はダメ
-    public function isLessThan(Quantiy $target):boolean
+    public function isLessThan(Quantity $target):bool
     {
         return $this->amount < $target->amount;
     }
