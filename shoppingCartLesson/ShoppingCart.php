@@ -1,16 +1,19 @@
 <?php
 
+require_once 'DiscountBundleFactory.php';
+require_once 'DiscountBundle.php';
+
 class ShoppingCart
 {
 
     private array $orders;
 
-    //private discountBundle $discount;
+    private discountBundle $discount;
 
     public function __construct()
     {
        $this->orders = [];   
-       //$this->discount = DiscountBundleFactory::create();
+       $this->discount = DiscountBundleFactory::create();
     }
 
     public function add(Order $order):void
@@ -18,11 +21,11 @@ class ShoppingCart
 
         $this->orders[] = $order;
 
-       // $this->discount->bundle($order);
-        // $result = $this->discount->getDiscountOrder();
-        // if($result != null){
-        //     $this->order->add($result);
-        // }
+       $this->discount->bundle($order);
+        $result = $this->discount->getDiscountOrder();
+        if($result != null){
+            $this->orders[] = $result;
+        }
     }
 
     public function  getTotal():Total
