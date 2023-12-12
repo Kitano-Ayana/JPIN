@@ -23047,3 +23047,136 @@ Stack trace:
 [60] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
 [60] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="60" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
 
+[85] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[85] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[85] Log closed at 2023-12-11 04:48:12.096178
+
+[58] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[58] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[64] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[64] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[21] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[21] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[90] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[90] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[86] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[62] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[67] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[67] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[89] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[89] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[67] Log closed at 2023-12-11 04:48:12.608439
+
+[84] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[84] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[60] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[65] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[65] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[61] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[61] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[58] Log closed at 2023-12-11 04:48:12.592022
+
+[64] Log closed at 2023-12-11 04:48:12.594224
+
+[22] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[21] Log closed at 2023-12-11 04:48:12.598047
+
+[90] Log closed at 2023-12-11 04:48:12.600533
+
+[86] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[62] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[86] Log closed at 2023-12-11 04:48:12.636313
+
+[89] Log closed at 2023-12-11 04:48:12.609974
+
+[84] Log closed at 2023-12-11 04:48:12.613056
+
+[60] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[61] Log closed at 2023-12-11 04:48:12.617002
+
+[65] Log closed at 2023-12-11 04:48:12.616926
+
+[22] Log closed at 2023-12-11 04:48:12.626619
+
+[62] Log closed at 2023-12-11 04:48:12.637165
+
+[60] Log closed at 2023-12-11 04:48:12.644582
+
+[89] Log opened at 2023-12-11 14:16:17.767522
+[89] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.89'
+[89] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[89] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[89] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[89] Log closed at 2023-12-11 14:16:18.083447
+
+[61] Log opened at 2023-12-11 14:26:07.285024
+[61] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.61'
+[61] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[61] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[61] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[61] Log closed at 2023-12-11 14:26:07.357501
+
+[58] Log opened at 2023-12-11 14:27:19.135616
+[58] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.58'
+[58] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[58] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[58] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[58] Log closed at 2023-12-11 14:27:19.214765
+
+[58] Log opened at 2023-12-11 14:27:19.862887
+[58] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.58'
+[58] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[58] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[58] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[58] Log closed at 2023-12-11 14:27:19.913382
+
+[22] Log opened at 2023-12-11 14:27:35.810219
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2023-12-11 14:27:35.899598
+
+[62] Log opened at 2023-12-11 16:40:39.748764
+[62] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.62'
+[62] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[62] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[62] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[62] Log closed at 2023-12-11 16:40:39.860200
+
+[84] Log opened at 2023-12-11 16:41:12.199380
+[84] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.84'
+[84] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[84] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[84] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[84] Log closed at 2023-12-11 16:41:12.303826
+
+[60] Log opened at 2023-12-11 16:41:31.477557
+[60] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.60'
+[60] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[60] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[60] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[60] Log closed at 2023-12-11 16:41:31.533132
+
+[67] Log opened at 2023-12-11 16:44:07.109232
+[67] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.67'
+[67] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[67] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[67] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[67] Log closed at 2023-12-11 16:44:07.164174
+

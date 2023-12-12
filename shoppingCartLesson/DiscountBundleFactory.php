@@ -7,10 +7,10 @@ class DiscountBundleFactory {
         $result = new Order(
             new Item(
                 new ItemName("discount"),
-                new ItemPrice( 18)
+                new ItemPrice(18)
             ),
             new Quantity(1),
-            //OrderType::CREDIT
+            OrderType::CREDIT
         );
 
         $bundle = new DiscountBundle(

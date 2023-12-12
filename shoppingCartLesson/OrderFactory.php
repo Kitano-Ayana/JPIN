@@ -8,7 +8,7 @@ class OrderFactory
     public static function create(Item $item, Quantity $quantity)
     {
        // $limit = self::buildlimiter();
-        $order = new Order($item,$quantity,self::buildlimiter());
+        $order = new Order($item,$quantity,null,self::buildlimiter());
         
         return $order;
     }

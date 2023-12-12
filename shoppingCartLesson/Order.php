@@ -74,4 +74,9 @@ class Order
         return $this->type;
     }
 
+    public function isSameItem($item):bool
+    {
+        return ($this->item == $item);
+    }
+
 }
