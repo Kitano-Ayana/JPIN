@@ -1,0 +1,832 @@
+[20] Log opened at 2024-01-05 06:47:35.124776
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 06:47:35.243756
+
+[22] Log opened at 2024-01-05 06:52:16.210749
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 06:52:16.259418
+
+[18] Log opened at 2024-01-05 07:20:02.019255
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:20:02.052148
+
+[18] Log opened at 2024-01-05 07:20:02.799510
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:20:02.819382
+
+[20] Log opened at 2024-01-05 07:22:31.698289
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 07:22:31.718826
+
+[21] Log opened at 2024-01-05 07:22:59.980925
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:22:59.998911
+
+[22] Log opened at 2024-01-05 07:23:26.190461
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:23:26.205935
+
+[18] Log opened at 2024-01-05 07:24:19.437287
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:24:19.465212
+
+[19] Log opened at 2024-01-05 07:24:59.284873
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:24:59.313546
+
+[19] Log opened at 2024-01-05 07:25:00.120425
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:25:00.158066
+
+[19] Log opened at 2024-01-05 07:25:00.656517
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:25:00.684331
+
+[19] Log opened at 2024-01-05 07:25:00.773560
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:25:00.790853
+
+[21] Log opened at 2024-01-05 07:26:48.960141
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:26:49.016090
+
+[21] Log opened at 2024-01-05 07:26:50.938124
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:26:50.962635
+
+[22] Log opened at 2024-01-05 07:27:20.864601
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:27:20.891172
+
+[17] Log opened at 2024-01-05 07:27:59.179553
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[17] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[17] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[17] Log closed at 2024-01-05 07:27:59.216466
+
+[18] Log opened at 2024-01-05 07:28:31.231504
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:28:31.255162
+
+[18] Log opened at 2024-01-05 07:28:32.062441
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:28:32.082191
+
+[18] Log opened at 2024-01-05 07:28:32.263624
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:28:32.283126
+
+[18] Log opened at 2024-01-05 07:28:32.425838
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:28:32.444488
+
+[18] Log opened at 2024-01-05 07:28:32.630786
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:28:32.661292
+
+[19] Log opened at 2024-01-05 07:28:54.732226
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:28:54.780473
+
+[19] Log opened at 2024-01-05 07:28:55.429622
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:28:55.464436
+
+[20] Log opened at 2024-01-05 07:29:20.649794
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 07:29:20.685279
+
+[20] Log opened at 2024-01-05 07:29:20.914540
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 07:29:20.945986
+
+[21] Log opened at 2024-01-05 07:29:40.255216
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:40.294024
+
+[21] Log opened at 2024-01-05 07:29:41.246842
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:41.282220
+
+[21] Log opened at 2024-01-05 07:29:41.942567
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:41.972077
+
+[21] Log opened at 2024-01-05 07:29:42.327732
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:42.351159
+
+[21] Log opened at 2024-01-05 07:29:42.557244
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:42.582137
+
+[21] Log opened at 2024-01-05 07:29:42.727577
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:42.754554
+
+[21] Log opened at 2024-01-05 07:29:42.858480
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:42.879521
+
+[21] Log opened at 2024-01-05 07:29:45.860101
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 07:29:45.897056
+
+[22] Log opened at 2024-01-05 07:29:56.293539
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:56.324283
+
+[22] Log opened at 2024-01-05 07:29:56.814467
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:56.859297
+
+[22] Log opened at 2024-01-05 07:29:56.936342
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:56.959268
+
+[22] Log opened at 2024-01-05 07:29:57.128444
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:57.155629
+
+[22] Log opened at 2024-01-05 07:29:57.238591
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:57.256673
+
+[22] Log opened at 2024-01-05 07:29:57.399424
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:29:57.431550
+
+[18] Log opened at 2024-01-05 07:30:56.376184
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:30:56.419993
+
+[19] Log opened at 2024-01-05 07:31:07.903155
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:31:07.949322
+
+[20] Log opened at 2024-01-05 07:31:49.103045
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 07:31:49.161737
+
+[22] Log opened at 2024-01-05 07:37:53.215094
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 07:37:53.343629
+
+[18] Log opened at 2024-01-05 07:41:39.612129
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] Log closed at 2024-01-05 07:41:39.663973
+
+[19] Log opened at 2024-01-05 07:42:16.697984
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 07:42:16.730476
+
+[20] Log opened at 2024-01-05 07:42:24.626057
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] Log closed at 2024-01-05 07:42:24.658269
+
+[17] Log opened at 2024-01-05 07:43:30.845866
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[17] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[17] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="17" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[17] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[17] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[17] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[17] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[17] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[17] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="170001" resolved="unresolved"></response>
+
+[17] [Step Debug] <- breakpoint_set -i 6 -t exception -x "Error"
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="170002" resolved="resolved"></response>
+
+[17] [Step Debug] <- breakpoint_set -i 7 -t exception -x "Fatal error"
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="170003" resolved="resolved"></response>
+
+[17] [Step Debug] <- breakpoint_set -i 8 -t exception -x "Parse error"
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="170004" resolved="resolved"></response>
+
+[17] [Step Debug] <- breakpoint_set -i 9 -t exception -x "Unknown error"
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="170005" resolved="resolved"></response>
+
+[17] [Step Debug] <- run -i 10
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/Main.php" lineno="12" exception="Error"><![CDATA[Call to undefined method Calculator::setLeft()]]></xdebug:message></response>
+
+[17] [Step Debug] <- stack_get -i 11
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="11"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/Main.php" lineno="12"></stack></response>
+
+[17] [Step Debug] <- context_names -i 12 -d 0
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="12"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[17] [Step Debug] <- context_get -i 13 -d 0 -c 0
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="13" context="0"><property name="$calc" fullname="$calc" type="object" classname="Calculator" children="1" numchildren="2" page="0" pagesize="100"><property name="add" fullname="$calc-&gt;add" facet="private" type="object" classname="Add" children="1" numchildren="2"></property><property name="minus" fullname="$calc-&gt;minus" facet="private" type="object" classname="Minus" children="1" numchildren="2"></property></property></response>
+
+[17] [Step Debug] <- property_get -i 14 -n "$calc->minus" -d 0 -c 0
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="14"><property name="$calc-&gt;minus" fullname="$calc-&gt;minus" type="object" classname="Minus" children="1" numchildren="2" page="0" pagesize="100"><property name="left" fullname="$calc-&gt;minus-&gt;left" facet="private" type="object" classname="NullValue" children="0" numchildren="0"></property><property name="right" fullname="$calc-&gt;minus-&gt;right" facet="private" type="object" classname="NullValue" children="0" numchildren="0"></property></property></response>
+
+[17] [Step Debug] <- property_get -i 15 -n "$calc->add" -d 0 -c 0
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="15"><property name="$calc-&gt;add" fullname="$calc-&gt;add" type="object" classname="Add" children="1" numchildren="2" page="0" pagesize="100"><property name="left" fullname="$calc-&gt;add-&gt;left" facet="private" type="object" classname="NullValue" children="0" numchildren="0"></property><property name="right" fullname="$calc-&gt;add-&gt;right" facet="private" type="object" classname="NullValue" children="0" numchildren="0"></property></property></response>
+
+[17] [Step Debug] <- context_get -i 16 -d 0 -c 1
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="16" context="1"><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="1" numchildren="23" page="0" pagesize="100"><property name="HOSTNAME" fullname="$_ENV[&quot;HOSTNAME&quot;]" type="string" size="12" encoding="base64"><![CDATA[YTI0OTBlMzgyZTQx]]></property><property name="PHP_VERSION" fullname="$_ENV[&quot;PHP_VERSION&quot;]" type="string" size="5" encoding="base64"><![CDATA[OC4xLjI=]]></property><property name="APACHE_CONFDIR" fullname="$_ENV[&quot;APACHE_CONFDIR&quot;]" type="string" size="12" encoding="base64"><![CDATA[L2V0Yy9hcGFjaGUy]]></property><property name="PHP_INI_DIR" fullname="$_ENV[&quot;PHP_INI_DIR&quot;]" type="string" size="18" encoding="base64"><![CDATA[L3Vzci9sb2NhbC9ldGMvcGhw]]></property><property name="GPG_KEYS" fullname="$_ENV[&quot;GPG_KEYS&quot;]" type="string" size="122" encoding="base64"><![CDATA[NTI4OTk1QkZFREZCQTcxOTFENDY4MzlFRjlCQTBBREEzMUNCRDg5RSAzOUI2NDEzNDNEOEMxMDRCMkIxNDZEQzNGOUMzOURDMEI5Njk4NTQ0IEYxRjY5MjIzOEZCQzE2NjZFNUE1Q0NENDE5OUY5REZFRjZGRkJBRkQ=]]></property><property name="PHP_LDFLAGS" fullname="$_ENV[&quot;PHP_LDFLAGS&quot;]" type="string" size="12" encoding="base64"><![CDATA[LVdsLC1PMSAtcGll]]></property><property name="PWD" fullname="$_ENV[&quot;PWD&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="APACHE_LOG_DIR" fullname="$_ENV[&quot;APACHE_LOG_DIR&quot;]" type="string" size="16" encoding="base64"><![CDATA[L3Zhci9sb2cvYXBhY2hlMg==]]></property><property name="LANG" fullname="$_ENV[&quot;LANG&quot;]" type="string" size="1" encoding="base64"><![CDATA[Qw==]]></property><property name="PHP_SHA256" fullname="$_ENV[&quot;PHP_SHA256&quot;]" type="string" size="64" encoding="base64"><![CDATA[NmI0NDgyNDJmZDM2MGMxYTlmMjY1YjcyNjNhYmYzZGEyNWQyOGYyYjJiMGY1NDY1NTMzYjY5YmU1MWEzOTFkZA==]]></property><property name="APACHE_PID_FILE" fullname="$_ENV[&quot;APACHE_PID_FILE&quot;]" type="string" size="28" encoding="base64"><![CDATA[L3Zhci9ydW4vYXBhY2hlMi9hcGFjaGUyLnBpZA==]]></property><property name="PHPIZE_DEPS" fullname="$_ENV[&quot;PHPIZE_DEPS&quot;]" type="string" size="76" encoding="base64"><![CDATA[YXV0b2NvbmYgCQlkcGtnLWRldiAJCWZpbGUgCQlnKysgCQlnY2MgCQlsaWJjLWRldiAJCW1ha2UgCQlwa2ctY29uZmlnIAkJcmUyYw==]]></property><property name="PHP_URL" fullname="$_ENV[&quot;PHP_URL&quot;]" type="string" size="50" encoding="base64"><![CDATA[aHR0cHM6Ly93d3cucGhwLm5ldC9kaXN0cmlidXRpb25zL3BocC04LjEuMi50YXIueHo=]]></property><property name="APACHE_RUN_GROUP" fullname="$_ENV[&quot;APACHE_RUN_GROUP&quot;]" type="string" size="8" encoding="base64"><![CDATA[d3d3LWRhdGE=]]></property><property name="APACHE_LOCK_DIR" fullname="$_ENV[&quot;APACHE_LOCK_DIR&quot;]" type="string" size="17" encoding="base64"><![CDATA[L3Zhci9sb2NrL2FwYWNoZTI=]]></property><property name="SHLVL" fullname="$_ENV[&quot;SHLVL&quot;]" type="string" size="1" encoding="base64"><![CDATA[MA==]]></property><property name="PHP_CFLAGS" fullname="$_ENV[&quot;PHP_CFLAGS&quot;]" type="string" size="83" encoding="base64"><![CDATA[LWZzdGFjay1wcm90ZWN0b3Itc3Ryb25nIC1mcGljIC1mcGllIC1PMiAtRF9MQVJHRUZJTEVfU09VUkNFIC1EX0ZJTEVfT0ZGU0VUX0JJVFM9NjQ=]]></property><property name="APACHE_RUN_DIR" fullname="$_ENV[&quot;APACHE_RUN_DIR&quot;]" type="string" size="16" encoding="base64"><![CDATA[L3Zhci9ydW4vYXBhY2hlMg==]]></property><property name="APACHE_ENVVARS" fullname="$_ENV[&quot;APACHE_ENVVARS&quot;]" type="string" size="20" encoding="base64"><![CDATA[L2V0Yy9hcGFjaGUyL2VudnZhcnM=]]></property><property name="APACHE_RUN_USER" fullname="$_ENV[&quot;APACHE_RUN_USER&quot;]" type="string" size="8" encoding="base64"><![CDATA[d3d3LWRhdGE=]]></property><property name="PATH" fullname="$_ENV[&quot;PATH&quot;]" type="string" size="60" encoding="base64"><![CDATA[L3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmlu]]></property><property name="PHP_ASC_URL" fullname="$_ENV[&quot;PHP_ASC_URL&quot;]" type="string" size="54" encoding="base64"><![CDATA[aHR0cHM6Ly93d3cucGhwLm5ldC9kaXN0cmlidXRpb25zL3BocC04LjEuMi50YXIueHouYXNj]]></property><property name="PHP_CPPFLAGS" fullname="$_ENV[&quot;PHP_CPPFLAGS&quot;]" type="string" size="83" encoding="base64"><![CDATA[LWZzdGFjay1wcm90ZWN0b3Itc3Ryb25nIC1mcGljIC1mcGllIC1PMiAtRF9MQVJHRUZJTEVfU09VUkNFIC1EX0ZJTEVfT0ZGU0VUX0JJVFM9NjQ=]]></property></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="39" page="0" pagesize="100"><property name="HTTP_HOST" fullname="$_SERVER[&quot;HTTP_HOST&quot;]" type="string" size="14" encoding="base64"><![CDATA[bG9jYWxob3N0OjgwMDA=]]></property><property name="HTTP_CONNECTION" fullname="$_SERVER[&quot;HTTP_CONNECTION&quot;]" type="string" size="10" encoding="base64"><![CDATA[a2VlcC1hbGl2ZQ==]]></property><property name="HTTP_SEC_CH_UA" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA&quot;]" type="string" size="65" encoding="base64"><![CDATA[Ik5vdC9BKUJyYW5kIjt2PSI5OSIsICJHb29nbGUgQ2hyb21lIjt2PSIxMTUiLCAiQ2hyb21pdW0iO3Y9IjExNSI=]]></property><property name="HTTP_SEC_CH_UA_MOBILE" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_MOBILE&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzA=]]></property><property name="HTTP_SEC_CH_UA_PLATFORM" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_PLATFORM&quot;]" type="string" size="7" encoding="base64"><![CDATA[Im1hY09TIg==]]></property><property name="HTTP_UPGRADE_INSECURE_REQUESTS" fullname="$_SERVER[&quot;HTTP_UPGRADE_INSECURE_REQUESTS&quot;]" type="string" size="1" encoding="base64"><![CDATA[MQ==]]></property><property name="HTTP_USER_AGENT" fullname="$_SERVER[&quot;HTTP_USER_AGENT&quot;]" type="string" size="117" encoding="base64"><![CDATA[TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNS4wLjAuMCBTYWZhcmkvNTM3LjM2]]></property><property name="HTTP_ACCEPT" fullname="$_SERVER[&quot;HTTP_ACCEPT&quot;]" type="string" size="135" encoding="base64"><![CDATA[dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2UvYXZpZixpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC43]]></property><property name="HTTP_SEC_FETCH_SITE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_SITE&quot;]" type="string" size="4" encoding="base64"><![CDATA[bm9uZQ==]]></property><property name="HTTP_SEC_FETCH_MODE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_MODE&quot;]" type="string" size="8" encoding="base64"><![CDATA[bmF2aWdhdGU=]]></property><property name="HTTP_SEC_FETCH_USER" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_USER&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzE=]]></property><property name="HTTP_SEC_FETCH_DEST" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_DEST&quot;]" type="string" size="8" encoding="base64"><![CDATA[ZG9jdW1lbnQ=]]></property><property name="HTTP_ACCEPT_ENCODING" fullname="$_SERVER[&quot;HTTP_ACCEPT_ENCODING&quot;]" type="string" size="17" encoding="base64"><![CDATA[Z3ppcCwgZGVmbGF0ZSwgYnI=]]></property><property name="HTTP_ACCEPT_LANGUAGE" fullname="$_SERVER[&quot;HTTP_ACCEPT_LANGUAGE&quot;]" type="string" size="23" encoding="base64"><![CDATA[amEsZW4tVVM7cT0wLjksZW47cT0wLjg=]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="60" encoding="base64"><![CDATA[L3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmlu]]></property><property name="SERVER_SIGNATURE" fullname="$_SERVER[&quot;SERVER_SIGNATURE&quot;]" type="string" size="72" encoding="base64"><![CDATA[PGFkZHJlc3M+QXBhY2hlLzIuNC41MiAoRGViaWFuKSBTZXJ2ZXIgYXQgbG9jYWxob3N0IFBvcnQgODAwMDwvYWRkcmVzcz4K]]></property><property name="SERVER_SOFTWARE" fullname="$_SERVER[&quot;SERVER_SOFTWARE&quot;]" type="string" size="22" encoding="base64"><![CDATA[QXBhY2hlLzIuNC41MiAoRGViaWFuKQ==]]></property><property name="SERVER_NAME" fullname="$_SERVER[&quot;SERVER_NAME&quot;]" type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property><property name="SERVER_ADDR" fullname="$_SERVER[&quot;SERVER_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI5LjAuMg==]]></property><property name="SERVER_PORT" fullname="$_SERVER[&quot;SERVER_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[ODAwMA==]]></property><property name="REMOTE_ADDR" fullname="$_SERVER[&quot;REMOTE_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI5LjAuMQ==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="REQUEST_SCHEME" fullname="$_SERVER[&quot;REQUEST_SCHEME&quot;]" type="string" size="4" encoding="base64"><![CDATA[aHR0cA==]]></property><property name="CONTEXT_PREFIX" fullname="$_SERVER[&quot;CONTEXT_PREFIX&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="CONTEXT_DOCUMENT_ROOT" fullname="$_SERVER[&quot;CONTEXT_DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="SERVER_ADMIN" fullname="$_SERVER[&quot;SERVER_ADMIN&quot;]" type="string" size="19" encoding="base64"><![CDATA[d2VibWFzdGVyQGxvY2FsaG9zdA==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="22" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbC9NYWluLnBocA==]]></property><property name="REMOTE_PORT" fullname="$_SERVER[&quot;REMOTE_PORT&quot;]" type="string" size="5" encoding="base64"><![CDATA[NTkyNzY=]]></property><property name="GATEWAY_INTERFACE" fullname="$_SERVER[&quot;GATEWAY_INTERFACE&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q0dJLzEuMQ==]]></property><property name="SERVER_PROTOCOL" fullname="$_SERVER[&quot;SERVER_PROTOCOL&quot;]" type="string" size="8" encoding="base64"><![CDATA[SFRUUC8xLjE=]]></property><property name="REQUEST_METHOD" fullname="$_SERVER[&quot;REQUEST_METHOD&quot;]" type="string" size="3" encoding="base64"><![CDATA[R0VU]]></property><property name="QUERY_STRING" fullname="$_SERVER[&quot;QUERY_STRING&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_URI" fullname="$_SERVER[&quot;REQUEST_URI&quot;]" type="string" size="9" encoding="base64"><![CDATA[L01haW4ucGhw]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="9" encoding="base64"><![CDATA[L01haW4ucGhw]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="9" encoding="base64"><![CDATA[L01haW4ucGhw]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1704440499.8526]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1704440499]]></property><property name="argv" fullname="$_SERVER[&quot;argv&quot;]" type="array" children="0" numchildren="0"></property><property name="argc" fullname="$_SERVER[&quot;argc&quot;]" type="int"><![CDATA[0]]></property></property><property name="$calc" fullname="$calc" type="object" classname="Calculator" children="1" numchildren="2" page="0" pagesize="100"><property name="add" fullname="$calc-&gt;add" facet="private" type="object" classname="Add" children="1" numchildren="2"></property><property name="minus" fullname="$calc-&gt;minus" facet="private" type="object" classname="Minus" children="1" numchildren="2"></property></property></response>
+
+[17] [Step Debug] <- stop -i 17
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="17" status="stopped" reason="ok"></response>
+
+[17] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="file:///var/www/html/Main.php" lineno="12" type="Fatal error"><![CDATA[Uncaught Error: Call to undefined method Calculator::setLeft()]]></xdebug:message></notify>
+
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="17" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/Main.php" lineno="12" exception="Fatal error" code="1"><![CDATA[Uncaught Error: Call to undefined method Calculator::setLeft() in /var/www/html/Main.php:12
+Stack trace:
+#0 {main}
+  thrown]]></xdebug:message></response>
+
+[17] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[17] Log closed at 2024-01-05 07:43:53.508101
+
+[18] Log opened at 2024-01-05 07:45:07.002206
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="18" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[19] Log opened at 2024-01-05 07:45:17.529390
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="19" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[17] Log opened at 2024-01-05 07:47:16.693242
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[17] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[17] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="17" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[23] Log opened at 2024-01-05 07:47:53.396413
+[23] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.23'
+[23] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[23] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[23] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="23" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[20] Log opened at 2024-01-05 07:50:11.078878
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="20" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[22] Log opened at 2024-01-05 07:51:14.892426
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="22" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[25] Log opened at 2024-01-05 07:51:59.378294
+[25] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.25'
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[25] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[25] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="25" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[24] Log opened at 2024-01-05 07:52:11.369449
+[24] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.24'
+[24] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[24] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[24] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="24" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[21] Log opened at 2024-01-05 08:00:27.383545
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="21" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[29] Log opened at 2024-01-05 08:01:27.178376
+[29] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.29'
+[29] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[29] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[29] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/test.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="29" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[29] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[29] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[29] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[29] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 60
+[29] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="290001" resolved="unresolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 64
+[29] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="290002" resolved="unresolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 7 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[29] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="290003" resolved="unresolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 3
+[29] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="290004" resolved="unresolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 9 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 4
+[29] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="290005" resolved="unresolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 10 -t exception -x "Error"
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="10" id="290006" resolved="resolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 11 -t exception -x "Fatal error"
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="11" id="290007" resolved="resolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 12 -t exception -x "Parse error"
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="12" id="290008" resolved="resolved"></response>
+
+[29] [Step Debug] <- breakpoint_set -i 13 -t exception -x "Unknown error"
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="13" id="290009" resolved="resolved"></response>
+
+[29] [Step Debug] <- run -i 14
+[29] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="14" status="stopping" reason="ok"></response>
+
+[29] Log closed at 2024-01-05 08:01:27.351524
+
+[19] Log opened at 2024-01-05 22:10:09.345888
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] Log closed at 2024-01-05 22:10:09.488829
+
+[20] Log opened at 2024-01-05 22:10:22.450847
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="20" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[20] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 60
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="200001" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 64
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="200002" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 7 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="200003" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 3
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="200004" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 9 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 4
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="200005" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 10 -t exception -x "Error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="10" id="200006" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 11 -t exception -x "Fatal error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="11" id="200007" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 12 -t exception -x "Parse error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="12" id="200008" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 13 -t exception -x "Unknown error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="13" id="200009" resolved="resolved"></response>
+
+[20] [Step Debug] <- run -i 14
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="14" status="stopping" reason="ok"></response>
+
+[20] Log closed at 2024-01-05 22:10:22.610878
+
+[20] Log opened at 2024-01-05 22:10:23.064958
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="20" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[20] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[20] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 60
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="200010" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 64
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="200011" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 7 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="200012" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 3
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="200013" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 9 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 4
+[20] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="200014" resolved="unresolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 10 -t exception -x "Error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="10" id="200015" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 11 -t exception -x "Fatal error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="11" id="200016" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 12 -t exception -x "Parse error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="12" id="200017" resolved="resolved"></response>
+
+[20] [Step Debug] <- breakpoint_set -i 13 -t exception -x "Unknown error"
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="13" id="200018" resolved="resolved"></response>
+
+[20] [Step Debug] <- run -i 14
+[20] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="14" status="stopping" reason="ok"></response>
+
+[20] Log closed at 2024-01-05 22:10:23.168670
+
+[22] Log opened at 2024-01-05 22:18:06.113358
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="22" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[22] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[22] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[22] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[22] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 60
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="220001" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 64
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="220002" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 7 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="220003" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 11
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="220004" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 9 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 14
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="220005" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 10 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 15
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="10" id="220006" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 11 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 16
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="11" id="220007" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 12 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 3
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="12" id="220008" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 13 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 4
+[22] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="13" id="220009" resolved="unresolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 14 -t exception -x "Error"
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="14" id="220010" resolved="resolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 15 -t exception -x "Fatal error"
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="220011" resolved="resolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 16 -t exception -x "Parse error"
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="220012" resolved="resolved"></response>
+
+[22] [Step Debug] <- breakpoint_set -i 17 -t exception -x "Unknown error"
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="220013" resolved="resolved"></response>
+
+[22] [Step Debug] <- run -i 18
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="18" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/Calculator.php" lineno="27" exception="Error"><![CDATA[Class "Constant" not found]]></xdebug:message></response>
+
+[22] [Step Debug] <- stack_get -i 19
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="19"><stack where="Calculator-&gt;getResult" level="0" type="file" filename="file:///var/www/html/Calculator.php" lineno="27"></stack><stack where="{main}" level="1" type="file" filename="file:///var/www/html/Main.php" lineno="16"></stack></response>
+
+[22] [Step Debug] <- context_names -i 20 -d 0
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="20"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[22] [Step Debug] <- stop -i 21
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="21" status="stopped" reason="ok"></response>
+
+[22] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="file:///var/www/html/Calculator.php" lineno="27" type="Fatal error"><![CDATA[Uncaught Error: Class "Constant" not found]]></xdebug:message></notify>
+
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="21" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/Calculator.php" lineno="27" exception="Fatal error" code="1"><![CDATA[Uncaught Error: Class "Constant" not found in /var/www/html/Calculator.php:27
+Stack trace:
+#0 /var/www/html/Main.php(16): Calculator->getResult()
+#1 {main}
+  thrown]]></xdebug:message></response>
+
+[22] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[22] Log closed at 2024-01-05 22:18:21.163842
+
+[18] Log opened at 2024-01-05 22:19:28.475163
+[18] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.18'
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[18] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="18" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[19] Log opened at 2024-01-05 22:19:30.030748
+[19] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.19'
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[19] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="19" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[21] Log opened at 2024-01-05 22:28:45.511894
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2024-01-05 22:28:45.573660
+
+[22] Log opened at 2024-01-05 22:29:22.930358
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[22] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2024-01-05 22:29:22.982863
+
+[23] Log opened at 2024-01-05 22:29:36.535078
+[23] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.23'
+[23] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[23] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[23] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="23" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[23] [Step Debug] <- feature_set -i 1 -n max_children -v 100
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="max_children" success="1"></response>
+
+[23] [Step Debug] <- feature_set -i 2 -n max_data -v 8192
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_data" success="1"></response>
+
+[23] [Step Debug] <- feature_set -i 3 -n notify_ok -v 1
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="notify_ok" success="1"></response>
+
+[23] [Step Debug] <- feature_set -i 4 -n resolved_breakpoints -v 1
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="resolved_breakpoints" success="1"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 62
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="230001" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Calculator.php -n 66
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Calculator.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="230002" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 7 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 10
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="230003" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 11
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="230004" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 9 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 14
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="9" id="230005" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 10 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 15
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="10" id="230006" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 11 -t line -f file:///Users/apple/Programing/JPIN/calculator2/Main.php -n 16
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/Main.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="11" id="230007" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 12 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 3
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="12" id="230008" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 13 -t line -f file:///Users/apple/Programing/JPIN/calculator2/test.php -n 4
+[23] [Step Debug] WARN: Breakpoint file name does not exist: /Users/apple/Programing/JPIN/calculator2/test.php (No such file or directory).
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="13" id="230009" resolved="unresolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 14 -t exception -x "Error"
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="14" id="230010" resolved="resolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 15 -t exception -x "Fatal error"
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="230011" resolved="resolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 16 -t exception -x "Parse error"
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="230012" resolved="resolved"></response>
+
+[23] [Step Debug] <- breakpoint_set -i 17 -t exception -x "Unknown error"
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="230013" resolved="resolved"></response>
+
+[23] [Step Debug] <- run -i 18
+[23] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="18" status="stopping" reason="ok"></response>
+
+[23] Log closed at 2024-01-05 22:29:36.677723
+
+[18] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[18] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[18] Log closed at 2024-01-05 22:29:45.472193
+
+[19] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[19] [Step Debug] WARN: The debugging client closed the connection on socket 13: Broken pipe (error: 32).
+[19] Log closed at 2024-01-05 22:29:45.478529
+
+[25] Log opened at 2024-01-05 22:30:37.685338
+[25] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.25'
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[25] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[25] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="25" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[20] Log opened at 2024-01-05 22:30:39.361321
+[20] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.20'
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[20] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="20" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[21] Log opened at 2024-01-05 22:31:04.965624
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/Main.php" language="PHP" xdebug:language_version="8.1.2" protocol_version="1.0" appid="21" idekey="VSCODE"><engine version="3.3.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+

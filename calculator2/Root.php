@@ -1,6 +1,6 @@
 <?php
 
-class Negative extends UnaryOperator{
+class Root extends UnaryOperator{
 
     private Expression $operand;
 
@@ -10,7 +10,7 @@ class Negative extends UnaryOperator{
     }
 
     public function evaluate():int{
-        return -$this->operand->evaluate();
+        return sqrt($this->operand->evaluate());
     }
 
     public function setOperand(Expression $operand){

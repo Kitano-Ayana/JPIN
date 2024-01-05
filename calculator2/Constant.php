@@ -1,5 +1,7 @@
 <?php
 
+require_once 'Expression.php';
+
 class Constant implements Expression{
 
     private int $num;
@@ -11,5 +13,18 @@ class Constant implements Expression{
     public function evaluate():int{
         return $this->num;
     }
+
+    public function isNull(){
+        return false;
+    }
+
+    public function isBinaryOperator():bool{
+        return false;
+    }
+
+    public function isUnaryOperator(){
+        return false;
+    }
+
 
 }
