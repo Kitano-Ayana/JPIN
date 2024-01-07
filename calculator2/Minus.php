@@ -3,7 +3,7 @@
 require_once 'BinaryOperator.php';
 require_once 'NullValue.php';
 
-class Add extends BinaryOperator{
+class Minus extends BinaryOperator{
 
     private Expression $left;
     private Expression $right;
@@ -28,7 +28,7 @@ class Add extends BinaryOperator{
             throw new Exception();
         }
 
-        return $this->left->evaluate() + $this->right->evaluate();
+        return $this->left->evaluate() - $this->right->evaluate();
     }
 
     public function isNULL()
@@ -36,9 +36,9 @@ class Add extends BinaryOperator{
         return false;
     }
 
-    public static function empty():Expression
+    public static function empty():Minus
     {
-        return new Add(new NullValue(),new NullValue());
+        return new Minus(new NullValue(),new NullValue());
     }
 
     public function isBinaryOperator(){
