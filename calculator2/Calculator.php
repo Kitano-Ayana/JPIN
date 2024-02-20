@@ -2,6 +2,9 @@
 
 require_once 'Constant.php';
 require_once 'Expression.php';
+require_once 'Add.php';
+require_once 'Minus.php';
+require_once 'OperantType.php';
 
 class Calculator{
 
